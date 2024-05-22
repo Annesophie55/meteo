@@ -13,7 +13,7 @@
 
 // Vous pouvez lui passer plusieurs paramètres :
 // q= pour spécifier la ville 
-// appid= pour spécifier votre clé secrète (la mienne si vous n'arrivez pas à en générer une  303f9eec7635d278cf01f88380592743)
+// appid= pour spécifier votre clé secrète 
 // units= pour spécifier que nous voulons la température en Celsius
 const ville ={
     nom: 'Berlin'
